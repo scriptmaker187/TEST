@@ -1,0 +1,16 @@
+Sammle Logs und Informationen 
+[25.10.2025 12:26:39,49] Starte Sammlung 
+C:\Windows\Minidump\102425-10718-01.dmp
+C:\Windows\Minidump\102425-11187-01.dmp
+C:\Windows\Minidump\102425-13765-01.dmp
+C:\Windows\Minidump\102525-10578-01.dmp
+C:\Windows\Minidump\102525-11937-01.dmp
+5 Datei(en) kopiert
+Minidumps kopiert 
+Das System kann die angegebene Datei nicht finden.
+Das System kann die angegebene Datei nicht finden.
+BattlEye Logs kopiert 
+BEDaisy.sys nicht gefunden 
+driverquery gespeichert 
+systeminfo gespeichert 
+Fertig. Ausgabeordner: "C:\Users\D E V\Desktop\BEDaisy_Diagnostics_-10-2025_12-26" 

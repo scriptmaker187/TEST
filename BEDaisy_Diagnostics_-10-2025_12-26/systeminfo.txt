@@ -1,0 +1,49 @@
+
+Hostname:                                      21497
+Betriebssystemname:                            Microsoft Windows 11 Enterprise
+Betriebssystemversion:                         10.0.26200 Nicht zutreffend Build 26200
+Betriebssystemhersteller:                      Microsoft Corporation
+Betriebssystemkonfiguration:                   Eigenständige Arbeitsstation
+Betriebssystem-Buildtyp:                       Multiprocessor Free
+Registrierter Benutzer:                        2149711228-1599514454-2942520587
+Registrierte Organisation:                     2149711228-1599514454-2942520587
+Produkt-ID:                                    00328-90000-00000-AAOEM
+Ursprüngliches Installationsdatum:            24.10.2025, 11:33:22
+Systemstartzeit:                               25.10.2025, 12:16:54
+Systemhersteller:                              System manufacturer
+Systemmodell:                                  MS-2013
+Systemtyp:                                     x64-based PC
+Prozessor(en):                                 1 Prozessor(en) installiert.
+                                               [01]: Intel64 Family 6 Model 183 Stepping 1 GenuineIntel ~3400 MHz
+BIOS-Version:                                  American Megatrends International, LLC. 1E2VILGTOXPPU74, 23.07.2023
+Windows-Verzeichnis:                           C:\WINDOWS
+System-Verzeichnis:                            C:\WINDOWS\system32
+Startgerät:                                   \Device\HarddiskVolume1
+Systemgebietsschema:                           de;Deutsch (Deutschland)
+Eingabegebietsschema:                          de;Deutsch (Deutschland)
+Zeitzone:                                      (UTC+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien
+Gesamter physischer Speicher:                  32.598 MB
+Verfügbarer physischer Speicher:              21.492 MB
+Virtueller Arbeitsspeicher: Maximale Größe:  46.934 MB
+Virtueller Arbeitsspeicher: Verfügbar:        33.387 MB
+Virtueller Arbeitsspeicher: Zurzeit verwendet: 13.547 MB
+Auslagerungsdateipfad(e):                      C:\pagefile.sys
+Domäne:                                       WORKGROUP
+Anmeldeserver:                                 \\21497
+Hotfix(es):                                    4 Hotfix(e) installiert.
+                                               [01]: KB5066128
+                                               [02]: KB5054156
+                                               [03]: KB5066835
+                                               [04]: KB5067360
+Netzwerkkarte(n):                              1 Netzwerkadapter installiert.
+                                               [01]: Realtek Gaming 2.5GbE Family Controller
+                                                     Verbindungsname: Ethernet
+                                                     DHCP aktiviert:  Ja
+                                                     DHCP-Server:     192.168.178.1
+                                                     IP-Adresse(n)
+                                                     [01]: 192.168.178.26
+Virtualisierungsbasierte Sicherheit:           Status: Nicht aktiviert
+                                               App Control for Business policy: Überwachung
+                                               App Control for Business user mode policy: Aus
+                                               Sicherheitsfeatures aktiviert:
+Anforderungen für Hyper-V:                    Es wurde ein Hypervisor erkannt. Features, die für Hyper-V erforderlich sind, werden nicht angezeigt.

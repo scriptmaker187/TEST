@@ -1,0 +1,4 @@
+Modulname:                  BEDaisy
+Anzeigename:                BEDaisy
+Beschreibung:               BEDaisy
+Pfad:                       \??\C:\Program Files (x86)\Common Files\BattlEye\BEDaisy.sys
